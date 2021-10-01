@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(62, 188, 226, 0.39);
+    font: normal 15pt Times;
+}
+header{
+       text-align: center;
+       color: rgba(4, 39, 49, 0.808);
+}
+section{
+        background: white;
+        border-radius: 10px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 5px 5px 10px black;
+
+    }
+#fim{
+    margin-left: 13px;
+}
+#botao{
+    margin-left: 57px;
+    background: rgb(141, 139, 139);
+    width: 70px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid rgb(97, 95, 95);
+    letter-spacing: 0.5px;
+    font-size: medium;
+}
+#botao:hover{
+    background: rgb(175, 173, 173);
+    font-size: large;
+}
+
+footer{
+       color: rgba(4, 39, 49, 0.808);
+       text-align: center;
+       font-style: italic;
+}
